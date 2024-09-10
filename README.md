@@ -1,1 +1,1 @@
-# Geospatial metadata from the University of Texas at Austin
+# Geospatial metadata for the University of Texas at Austin
