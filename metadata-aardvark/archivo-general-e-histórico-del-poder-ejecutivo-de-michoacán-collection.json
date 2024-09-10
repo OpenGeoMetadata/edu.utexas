@@ -1,0 +1,36 @@
+{
+    "dct_title_s": "Archivo General e Hist\u00f3rico del Poder Ejecutivo de Michoac\u00e1n collection",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_subject_sm": [
+        "Libros de Hijuelas",
+        "1719-1929",
+        "Reparto de Tierras",
+        "Liberal Privatization of Indigenous Land",
+        "Indigenous History of Mexico",
+        "Pur\u00e9pecha",
+        "Michoac\u00e1n",
+        "Mexico--Politics and government--Nineteenth-century Liberalism",
+        "Mexico--History--Dissolution of Corporate Land Holdings",
+        "Mexico--History--Agrarian History",
+        "1868-1929"
+    ],
+    "dct_temporal_sm": [
+        "19th century",
+        "1899",
+        "1719-1929",
+        "1868-1929"
+    ],
+    "dct_spatial_sm": [
+        "Michoac\u00e1n",
+        "Mexico"
+    ],
+    "locn_geometry": "ENVELOPE(-103.684145, -100.079584, 20.393475, 17.98414)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "archivo-general-e-hist\u00f3rico-del-poder-ejecutivo-de-michoac\u00e1n-collection",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,13 @@
+{
+    "dct_title_s": "Basemap collection",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "locn_geometry": "ENVELOPE(-97.746886, -97.722083, 30.292853, 30.2751)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "basemap-collection",
+    "gbl_mdVersion_s": "Aardvark"
+}

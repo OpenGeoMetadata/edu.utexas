@@ -1,0 +1,27 @@
+{
+    "dct_title_s": "Central Texas Geology Index Map",
+    "dct_description_sm": [
+        "Index map for orginal and collarless versions of geologic maps for central Texas compiled in TIF and KML format and georeferenced for the Barton Springs Edwards Aquifer Conservatoin District Central Texas GISs Geologic Map Project. Maps indexed and hyperlinked through this index were the most detailed available c. 2015. Hyperlinks provide access to copies of collared and collarless maps with both NAD27 and WGS84 datums. The maps, along with extensive metadata, reside within the University of Texas Libraries Texas ScholarWorks repository."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Walter Geology Library",
+        "Central Texas Geology Maps collection"
+    ],
+    "dct_issued_s": "2015-12-01",
+    "locn_geometry": "ENVELOPE(-98.5, -97.499354, 30.625, 29.75)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utlgeol__ctgm__im__poly__v1__central_texas_geology_index_map_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utlgeol__ctgm__im__poly__v1__central_texas_geology_index_map.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utlgeol__ctgm__im__poly__v1__central_texas_geology_index_map.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlgeol__ctgm__im__poly__v1__central_texas_geology_index_map.xml\"}",
+    "id": "utaustin_73104",
+    "dct_identifier_sm": [
+        "73104"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

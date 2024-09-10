@@ -1,0 +1,51 @@
+{
+    "dct_title_s": [
+        "Sanborn Fire Insurance Maps [Seguin, Texas, 1906, Sheet 4]"
+    ],
+    "dct_alternative_sm": [],
+    "dct_description_sm": [
+        "Originally published by Sanborn Map Co., New York; name of publisher and place of publication varies.",
+        "Fire insurance map, hand-colored to show building construction, locations of windows and doors, elevators, and available water facilities.",
+        "Shows factories, commercial occupancy of buildings, property boundaries and house and block numbers.",
+        "Includes notes on population, fire departments, and prevailing winds.",
+        "Includes location map and key to building colors and other features."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "dct_creator_sm": [
+        "Sanborn Map Company (cartographer)"
+    ],
+    "dct_publisher_sm": [],
+    "schema_provider_s": "Texas",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Raster data"
+    ],
+    "dcat_theme_sm": [],
+    "dcat_keyword_sm": [],
+    "dct_temporal_sm": "1906",
+    "dct_issued_s": "1906",
+    "gbl_indexYear_im": "1906",
+    "gbl_dateRange_drsim": [],
+    "dct_spatial_sm": [],
+    "locn_geometry": "ENVELOPE(-97.96389370008114,-97.96029857557764,29.569133535304882,29.565370770293374)",
+    "dcat_bbox": "ENVELOPE(-97.96389370008114,-97.96029857557764,29.569133535304882,29.565370770293374)",
+    "pcdm_memberOf_sm": [],
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_rights_sm": "public access",
+    "dct_license_sm": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoTIFF",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://collections.lib.utexas.edu/catalog/utlmaps:d267f658-3626-4e07-8e6f-7c76ffdd61dd\",\"http://schema.org/downloadUrl\":\"https://curio.lib.utexas.edu/geodata/raster/utlmaps-d267f658-3626-4e07-8e6f-7c76ffdd61dd.tif\",\"https://github.com/cogeotiff/cog-spec\":\"https://curio.lib.utexas.edu/geodata/raster/utlmaps-d267f658-3626-4e07-8e6f-7c76ffdd61dd-cog.tif\"}",
+    "id": "utlmaps:d267f658-3626-4e07-8e6f-7c76ffdd61dd",
+    "dct_identifier_sm": "utlmaps:d267f658-3626-4e07-8e6f-7c76ffdd61dd",
+    "gbl_mdModified_dt": "2024-05-03T10:23:22Z",
+    "gbl_mdVersion_s": "Aardvark",
+    "b1g_code_s": ""
+}

@@ -1,0 +1,44 @@
+{
+    "dct_title_s": "Meuse-Argonne offensive, May 24, 1919, 1:80,000.",
+    "dct_description_sm": [
+        "Scale: 1:80000;  Map Type: (OCoLC)fst01423704;  Other Descriptive Notes about Map Series: Relief shown by hachures and spot heights.  Map Room G-3, G.H.Q. [Operations Section, General Headquarters] located at Chaumont, France at time of publication. Base Plant, 29th Engineers, U.S. Army located at Langres, France at time of printing.  Includes text."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1919"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Maas",
+        "Aire",
+        "Ardennes",
+        "France",
+        "Luxembourg",
+        "Belgium",
+        "Meuse",
+        "Meurthe-et-Moselle",
+        "Marne"
+    ],
+    "locn_geometry": "ENVELOPE(4.743, 5.5747, 49.73211, 49.07702)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__80k__26217217__meuse_argonne_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__80k__26217217__meuse_argonne.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__80k__26217217__meuse_argonne.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__80k__26217217__meuse_argonne.xml\"}",
+    "id": "utaustin_121290",
+    "dct_identifier_sm": [
+        "121290"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

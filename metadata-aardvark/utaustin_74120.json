@@ -1,0 +1,27 @@
+{
+    "dct_title_s": "Hardscape",
+    "dct_description_sm": [
+        "The data represents UTM hardscape geometry as of November 2020. Includes geo domain, classification, owner, material, and notes. The data was collected by the TRecs LIS team through field work efforts such as drone scans and lidar scans . The data is visible in UTM campus print/web maps. The data uses NAD_1983_2011_StatePlane_Texas_Central_FIPS_4203_Ft_US coordinate system."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Technology Resources collection",
+        "Basemap collection"
+    ],
+    "dct_issued_s": "",
+    "locn_geometry": "ENVELOPE(-97.746886, -97.722083, 30.292853, 30.2751)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "trecs__basemap__utm__poly__v1__hardscape_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/trecs__basemap__utm__poly__v1__hardscape.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/trecs__basemap__utm__poly__v1__hardscape.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/trecs__basemap__utm__poly__v1__hardscape.xml\"}",
+    "id": "utaustin_74120",
+    "dct_identifier_sm": [
+        "74120"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,51 @@
+{
+    "dct_title_s": "Trier , Sheet K 50 , Germany 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, and spot heights.  Five classes of railways and five classes of roads are shown.  Cover area west from Trier to Pfeddersheim to the east, and north from Simmern to Lemberg, France to the south. Trier roughly above left center of sheet.  Sheet K.50, Trier from series Geographical Section, General Staff, No. 4346, issued in various editions.  Military grid.  Nord de Guerre Zone Grid ... Spheroid, Du Plessis..  Heights in metres..  Certain main spot heights are indicated by a white tab to improve legibility..  Includes legend, Incidence of grid letters diagrams, Convergence for corners of this sheet diagram, To give a grid reference on this sheet, Grid data: Nord de Guerre Grid, index to adjoining sheets, index to corresponding 1:100,000 scale sheets, Conversion table, Authorities, and Glossary."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Vosges Mountains",
+        "Rheinland-Pfalz",
+        "Germany",
+        "Diekirch",
+        "Luxembourg",
+        "Grevenmacher",
+        "Saarland",
+        "Meurthe-et-Moselle",
+        "France",
+        "Liege",
+        "Belgium",
+        "Moselle",
+        "Nordrhein-Westfalen",
+        "Baden-W\u00fcrttemberg",
+        "Bas-Rhin",
+        "Hessen"
+    ],
+    "locn_geometry": "ENVELOPE(6.24975, 8.97069, 50.34662, 48.6867)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1055161411__trier_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055161411__trier.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055161411__trier.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1055161411__trier.xml\"}",
+    "id": "utaustin_121262",
+    "dct_identifier_sm": [
+        "121262"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

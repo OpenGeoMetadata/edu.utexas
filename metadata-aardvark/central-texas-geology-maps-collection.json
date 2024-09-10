@@ -1,0 +1,13 @@
+{
+    "dct_title_s": "Central Texas Geology Maps collection",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "locn_geometry": "ENVELOPE(-98.5, -97.499354, 30.625, 29.75)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "central-texas-geology-maps-collection",
+    "gbl_mdVersion_s": "Aardvark"
+}

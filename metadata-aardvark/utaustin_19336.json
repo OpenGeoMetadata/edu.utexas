@@ -1,0 +1,50 @@
+{
+    "dct_title_s": "1:500,000, 1:500,000 (AMS F401), Sheet Mexico City Ne (AMS F401), Mexico",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:500000;  Relief Symbology: contours, gradient and bathymetric tints;  Other Descriptive Notes about Map Series:   [U.S. Army Map Service.  A. M. S. F401]  Set includes various issues of some sheets.  Elevations are indicated in meters by contours and altitude tints.  In addition to aeronautical information, four classes of roads or trails, three classes of railroads, and telephone and telegraph lines are shown.  By Geographic Branch, Military Intelligence Division (G-2) General Staff, U. S. A.  Marginal diagrams: Relative reliability.--Sheet index."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1933"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Hidalgo",
+        "Sierra Madre Del Sur",
+        "Tlaxcala",
+        "Guanajuato",
+        "Mexico",
+        "Michoac\u00e1n",
+        "Quer\u00e9taro",
+        "Guerrero",
+        "Puebla",
+        "Oaxaca",
+        "Morelos",
+        "M\u00e9xico",
+        "Distrito Federal",
+        "Veracruz"
+    ],
+    "locn_geometry": "ENVELOPE(-102.12172, -95.87941, 20.11647, 17.86006)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__mexico_f401__500k__6476871__mexico_city_ne_14_n_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__mexico_f401__500k__6476871__mexico_city_ne_14_n.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__mexico_f401__500k__6476871__mexico_city_ne_14_n.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__mexico_f401__500k__6476871__mexico_city_ne_14_n.xml\"}",
+    "id": "utaustin_19336",
+    "dct_identifier_sm": [
+        "19336"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

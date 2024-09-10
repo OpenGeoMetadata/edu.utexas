@@ -1,0 +1,43 @@
+{
+    "dct_title_s": "Frankfurt-am-Main , Sheet L 51, Germany 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, and spot heights.  Five classes of railways and five classes of roads are shown.  Covers area west from Braunfels to Eisenach to the east, and north from Rotenburg an der Fulda to H\u00f6sbach to the south. Frankfurt am Main roughly at lower left corner of sheet.  Likely reprint of Sheet L.51, Frankfurt-am-Main by Army Map Service, U.S. Army from series issued in various editions by Geographical Section, General Staff, No. 4346.  Military grid.  Nord de Guerre Zone Grid ... Spheroid, Du Plessis..  Heights in metres..  Cataloging agency's copy includes red overprint box with red script in lower margin: G.S.G.S. 4346. SHT. L/51. 1ST ED. Frankfurt-am-Main. Red. Corrected.  IXA.  Cataloging agency's copy includes black overprint box with black script in lower margin: G.S.G.S. 4346. SHT. L/51. 1ST ED. Frankfurt am Main. Detail. Corrected.  IXA.  Includes legend, Incidence of grid letters diagrams, Convergence for corners of this sheet diagram, To give a grid reference on this sheet, Grid data: Nord de Guerre Grid, index to adjoining sheets, index to corresponding 1:100,000 scale sheets, Authorities, and Glossary."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Vosges Mountains",
+        "Bayern",
+        "Germany",
+        "Rheinland-Pfalz",
+        "Nordrhein-Westfalen",
+        "Baden-W\u00fcrttemberg",
+        "Hessen",
+        "Th\u00fcringen"
+    ],
+    "locn_geometry": "ENVELOPE(8.04742, 10.94303, 51.18855, 49.69205)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1055161514__frankfurt_am_main_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055161514__frankfurt_am_main.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055161514__frankfurt_am_main.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1055161514__frankfurt_am_main.xml\"}",
+    "id": "utaustin_121266",
+    "dct_identifier_sm": [
+        "121266"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

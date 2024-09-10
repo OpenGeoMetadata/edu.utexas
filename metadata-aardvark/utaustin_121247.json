@@ -1,0 +1,34 @@
+{
+    "dct_title_s": "C. Budejovice , Sheet O 49, Central Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours and spot heights.  Five classes of roads and four classes of railroads are shown.  Covers area north from Slovonice to Scheibbs to the south, and west from Reichenthal to Merkersdorf to the east. \u010cesk\u00e9 Bud\u011bjovice is roughly at upper left corner of sheet. Zwettl is roughly at center of sheet. Vienna is roughly at lower right corner of sheet, bleeding into right margin.  Sheet O 49, C. Budejovice from set that includes various issues of some sheets, some by various survey units of the Allied Forces (A.F.) some reissued by U.S. Army Map Service, some sheets, G.S.G.S. 4346; some sheets A.M.S. M508 (G.S.G.S. 4346).  Heights in metres..  Certain main spot heights are indicated by a white tab to improve legibility..  Military grid.  Spheroid: Du Plessis..  Includes Convergence for corners of this sheet, To give a grid reference on this sheet, Index to adjoining sheets, Conversion table, Austrian glossary, Key to pronunciation [Austrian], Czech glossary, Key to pronunciation [Czech], Authorities, and Incidence of grid letters. Also includes altitude tints scale that lacks tints.  30/11-44/P. Dupont/5098.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": null,
+    "locn_geometry": "ENVELOPE(14.13906, 17.01533, 49.1506, 47.66962)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1032828605__c_budejovice_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1032828605__c_budejovice.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1032828605__c_budejovice.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1032828605__c_budejovice.xml\"}",
+    "id": "utaustin_121247",
+    "dct_identifier_sm": [
+        "121247"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

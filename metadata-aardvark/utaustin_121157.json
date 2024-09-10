@@ -1,0 +1,56 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1894; Sheet 14]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1894"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Smith",
+        "B.J.",
+        "Property",
+        "Claudia Taylor Johnson Hall",
+        "Austin",
+        "78701",
+        "Colorado St",
+        "Guadalupe St",
+        "Lavaca St",
+        "Nueces St",
+        "Rio Grande St",
+        "San Antonio St",
+        "W 2nd St",
+        "W 3rd St",
+        "W 4th St",
+        "W 5th St",
+        "W 6th St",
+        "W 7th St",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.75002, -97.74475, 30.26991, 30.26567)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1894__1k__x__14_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1894__1k__x__14.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1894__1k__x__14.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1894__1k__x__14.xml\"}",
+    "id": "utaustin_121157",
+    "dct_identifier_sm": [
+        "121157"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

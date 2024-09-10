@@ -1,0 +1,41 @@
+{
+    "dct_title_s": "1:125,000, 1:125,000 (AMS P632), Sheet 07 (AMS P632), Southern Morocco",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:125000;  Map Type: Topographic maps;  Other Descriptive Notes about Map Series: Polyconic projection..  Elevations in feet shown by contours or form lines.  Military grid.  Shows five classes of roads and tracks, and three classes of airports.  Work projects administration O. P. 165-2-00-3 [and O. P. 165-2-23-690].  Marginal diagrams show index to adjoining sheets, compilatin data, etc."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Atlas Mountains",
+        "Tadla - Azilal",
+        "Haut Atlas",
+        "Souss - Massa - Dra\u00e2",
+        "Morocco"
+    ],
+    "locn_geometry": "ENVELOPE(-7.0, -6.5, 32.0, 31.5)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__southern_morocco_p632__125k__6596235__sheet_07_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__southern_morocco_p632__125k__6596235__sheet_07.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__southern_morocco_p632__125k__6596235__sheet_07.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__southern_morocco_p632__125k__6596235__sheet_07.xml\"}",
+    "id": "utaustin_19515",
+    "dct_identifier_sm": [
+        "19515"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

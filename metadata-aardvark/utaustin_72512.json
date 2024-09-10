@@ -1,0 +1,48 @@
+{
+    "dct_title_s": "Communities in Michoac\u00e1n, Mexico that were presented Hijuelas during the Privatization of Indigenous Land, 1719\u20101929",
+    "dct_description_sm": [
+        "The communities are organized by their late 19th century political divisions and possess other attribute data such as the category of settlement, population circa 1880, tenencia status, alternate names, languages spoken and reference numbers for the UT metadata and the British Library\u2019s digital collection of deed books. The communities in this map were found in michoacanodeed books, digitized as a part of the British Library\u2019s \u201cConserving Indigenous Memories of Land Privatisation in Mexico: Michoac\u00e1n\u2019s Libros de Hijuelas, 1719-1929 (EAP931)\u201d through the Endangered Archives Project in collaboration with LLILAS Benson Latin American Studies and Collections. The map connects--via reference numbers--the metadata hosted by UT (LADI) and the actual digitized volumes held by the British Library to the relevant community. This allows for the hijuelascollection to be explored spatially. The map also contains the result of primary research in 19th century sources: the political divisions, categories of settlement (ciudad, villa, pueblo, hacienda, etc.), population data, languages spoken, and alternate names and spellings for each of the 228 communities mapped."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Benson Latin American Collection",
+        "Archivo General e Hist\u00f3rico del Poder Ejecutivo de Michoac\u00e1n collection"
+    ],
+    "dct_subject_sm": [
+        "Libros de Hijuelas",
+        "1719-1929",
+        "Reparto de Tierras",
+        "1868-1929",
+        "Liberal Privatization of Indigenous Land",
+        "Indigenous History of Mexico",
+        "Pur\u00e9pecha",
+        "Michoac\u00e1n",
+        "Mexico--Politics and government--Nineteenth-century Liberalism",
+        "Mexico--History--Dissolution of Corporate Land Holdings",
+        "Mexico--History--Agrarian History"
+    ],
+    "dct_temporal_sm": [
+        "1719-1929",
+        "1868-1929"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Michoac\u00e1n",
+        "Mexico"
+    ],
+    "locn_geometry": "ENVELOPE(-103.533061, -100.116667, 20.380782, 18.24101)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utblac__ladi__aghpem__point__1__michoacan_hijuelas_communities_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__ladi__aghpem__point__1__michoacan_hijuelas_communities.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__ladi__aghpem__point__1__michoacan_hijuelas_communities.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utblac__ladi__aghpem__point__1__michoacan_hijuelas_communities.xml\"}",
+    "id": "utaustin_72512",
+    "dct_identifier_sm": [
+        "72512"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

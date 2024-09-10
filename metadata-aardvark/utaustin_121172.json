@@ -1,0 +1,56 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1921; Sheet 70]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1921"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "University Interscholastic League",
+        "Austin",
+        "78722",
+        "Chicon St",
+        "Dancy St",
+        "Drury Ln",
+        "E 22nd St",
+        "E 28th St",
+        "E 29th St",
+        "E 30th St",
+        "E Dean Keeton St",
+        "French Pl",
+        "Lafayette Ave",
+        "Leona St",
+        "Manor Rd",
+        "Poquito St",
+        "Robinson Ave",
+        "Salina St",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.72446, -97.72043, 30.28638, 30.28212)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1921__1k__x__70_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__70.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__70.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1921__1k__x__70.xml\"}",
+    "id": "utaustin_121172",
+    "dct_identifier_sm": [
+        "121172"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,23 @@
+{
+    "dct_title_s": "cc collection",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944",
+        "1943",
+        "1952",
+        "1919"
+    ],
+    "dct_spatial_sm": null,
+    "locn_geometry": "ENVELOPE(4.92197, 6.16881, 50.05029, 49.45545)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "cc-collection",
+    "gbl_mdVersion_s": "Aardvark"
+}

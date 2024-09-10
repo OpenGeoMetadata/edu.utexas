@@ -1,0 +1,39 @@
+{
+    "dct_title_s": "1:250,000, 1:250,000 (AMS F541), Sheet Tamiahua (AMS F541), Mexico",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: transverse mercator;  Relief Symbology: contours, form lines, spot heights;  Map Type: Topographic maps.;  Other Descriptive Notes about Map Series:   Relief shown by form lines, contours and spot heights.  Elevations are indicated in meters.  Form line interval 150 meters (Approx.)--On some sheets.  Geographic Branch, Military Intelligence Division, (G-2) General Staff, U.S.A.  Army Map Service, Corps of Engineers, War Department.  First Edition (AMS 1), 1941; (AMS 2), 1947.  Universal Transverse Mercator Grid added, 1947.  Ten thousand meter Universal Transverse Mercator Grid, Zone 14. The last four digits of the grid numbers are omitted.  Set incomplete."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1947"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Sierra Madre Oriental",
+        "Veracruz",
+        "Mexico"
+    ],
+    "locn_geometry": "ENVELOPE(-98.00043, -96.00048, 21.99957, 20.99912)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__mexico_f541__250k__21746879__tamiahua_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__mexico_f541__250k__21746879__tamiahua.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__mexico_f541__250k__21746879__tamiahua.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__mexico_f541__250k__21746879__tamiahua.xml\"}",
+    "id": "utaustin_19349",
+    "dct_identifier_sm": [
+        "19349"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

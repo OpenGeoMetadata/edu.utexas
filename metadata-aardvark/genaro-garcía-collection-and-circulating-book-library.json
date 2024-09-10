@@ -1,0 +1,28 @@
+{
+    "dct_title_s": "Genaro Garc\u00eda Collection and circulating book library",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "Spanish; Castilian"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_subject_sm": [
+        "Catholic Church",
+        "Colonial Mexico",
+        "Religious Orders"
+    ],
+    "dct_temporal_sm": [
+        "1534-1599"
+    ],
+    "dct_spatial_sm": [
+        "Mexico",
+        "Spain",
+        "Santo Domingo",
+        "Oaxaca",
+        "Canary Islands"
+    ],
+    "locn_geometry": "ENVELOPE(-104.653176, 9.039143, 51.498796, 14.558571)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "genaro-garc\u00eda-collection-and-circulating-book-library",
+    "gbl_mdVersion_s": "Aardvark"
+}

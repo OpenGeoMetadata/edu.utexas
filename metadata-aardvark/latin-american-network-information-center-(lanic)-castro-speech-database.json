@@ -1,0 +1,33 @@
+{
+    "dct_title_s": "Latin American Network Information Center (LANIC) Castro Speech Database",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_subject_sm": [
+        "Speeches",
+        "addresses",
+        "etc.",
+        "Cuban.",
+        "Cuba--Politics and government--1959-1990.",
+        "Communism--Cuba.",
+        "Cuba--History--20th century.",
+        "Castro",
+        "Fidel",
+        "1926-2016."
+    ],
+    "dct_temporal_sm": [
+        "20th century",
+        "1960-1994",
+        "Cuban Revolution"
+    ],
+    "dct_spatial_sm": [
+        "Cuba"
+    ],
+    "locn_geometry": "ENVELOPE(-82.748874, -75.200391, 23.177252, 19.999245)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "latin-american-network-information-center-(lanic)-castro-speech-database",
+    "gbl_mdVersion_s": "Aardvark"
+}

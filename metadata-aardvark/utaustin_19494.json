@@ -1,0 +1,47 @@
+{
+    "dct_title_s": "1:250,000, 1:250,000 (AMS S501), Sheet Nd51 1 450 (AMS S501), Philippines",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: transverse mercator;  Relief Symbology: contours, form lines, shading;  Map Type: Topographic maps.;  Other Descriptive Notes about Map Series: Relief shown by approximate contours or form lines at 100 meter intervals, spot heights, and in part by shading.  Various editions of some sheets.  Each sheet includes Glossary, Location diagram, and Reliability diagram.  Accompanied by index map on sheet 27 x 41 cm."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1954"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Dagupan",
+        "Nueva Ecija",
+        "Philippines",
+        "Zambales",
+        "Malay Archipelago",
+        "Pampanga",
+        "Luzon",
+        "Bulacan",
+        "Angeles",
+        "Tarlac",
+        "Pangasinan"
+    ],
+    "locn_geometry": "ENVELOPE(119.5, 121.0, 16.0, 15.0)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__philippines_s501__250k__6539351__nd51_1_450_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__philippines_s501__250k__6539351__nd51_1_450.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__philippines_s501__250k__6539351__nd51_1_450.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__philippines_s501__250k__6539351__nd51_1_450.xml\"}",
+    "id": "utaustin_19494",
+    "dct_identifier_sm": [
+        "19494"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

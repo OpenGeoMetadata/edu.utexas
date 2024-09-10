@@ -1,0 +1,59 @@
+{
+    "dct_title_s": "Paris-Reims, Sheet no. 8, North west Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, and spot heights.  Three classes of railways and five classes of roads are shown.  Covers area north from Chauny to Provins to the south, and west from Beauvais to Ch\u00e2lons-sur-Marne [Ch\u00e2lons-en-Champagne] to the east. Paris roughly below center left portion of sheet. Reims roughly above center right portion of sheet. Chateau-Thierry roughly at center of sheet.  Sheet no. 8, Paris-Reims from set covering most of the Low Countries and northeastern France. Set includes various issues of some sheets, some reissued by U.S. Army Map Service. Some sheets have series designation A.M.S. M503 (G.S.G.S. 4042).  Published by the War Office, 1938..  2nd. Edition 1943..  Military grid.  Nord de Guerre Zone Grid. Projection, Lambert Conical Orthomorphic. Spheroid, Du Plessis (reconstituted)..  Heights in metres..  Contour interval 50 metres..  Cataloging agency's copy overprinted with 1 dashed blue diagonal line extending south/northeast from roughly E 2\u00b024\u02b9/N 48\u00b033\u02b9 to E 2\u00b039\u02b9/N 49\u00b041\u02b9 with designation: 8\u00b030\u02b9 W (June 1943).  IXA.  Cataloging agency's copy overprinted with 1 solid blue diagonal line extending south/northeast from roughly E 3\u00b023\u02b9/N 48\u00b033\u02b9 to E 3\u00b034\u02b9/N 49\u00b041\u02b9 with designation: 8\u00b0 W (June 1943).  IXA.  Cataloging agency's copy overprinted with 1 dashed blue diagonal line extending south/northeast from roughly E 4\u00b023\u02b9/N 48\u00b033\u02b9 to E 4\u00b033\u02b9/N 49\u00b08\u02b9 with designation: 7\u00b030\u02b9 W (June 1943).  IXA.  Includes Conversion table, Incidence of grid letters and Index to adjoining sheets, To give a grid reference on this sheet, Nord de Guerre Zone Grid convergence diagram, and Reliability diagram.  25,000/5/44.E.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "\u00c9tang de Bonnevais",
+        "\u00c9tang de Bonnevais",
+        "Ardennes",
+        "North European Plain",
+        "France",
+        "Aisne",
+        "Eure",
+        "Seine-Maritime",
+        "Somme",
+        "Haute-Marne",
+        "Marne",
+        "Loiret",
+        "Aube",
+        "Paris",
+        "Hauts-de-Seine",
+        "Seine-Saint-Denis",
+        "Val-d'Oise",
+        "Yvelines",
+        "Eure-et-Loir",
+        "Oise",
+        "Yonne",
+        "Essonne",
+        "Seien-et-Marne",
+        "Val-de-Marne"
+    ],
+    "locn_geometry": "ENVELOPE(1.76257, 4.89568, 49.76014, 48.31935)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1042075419__paris_reims_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1042075419__paris_reims.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1042075419__paris_reims.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1042075419__paris_reims.xml\"}",
+    "id": "utaustin_121254",
+    "dct_identifier_sm": [
+        "121254"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

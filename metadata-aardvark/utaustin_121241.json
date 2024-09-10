@@ -1,0 +1,53 @@
+{
+    "dct_title_s": "Praha (Prague) , Sheet O 51, Central Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, and spot heights.  Five classes of roads and four classes of railroads are shown.  Covers area west from Auscha [\u00da\u0301\u0161t\u011bk, Czech Republic] to Politz [Police nad Metuj\u00ed, Czech Republic] to the east, and north from Friedeberg [Mirsk, Poland] to Kolin to the south. Prague roughly at lower left corner of sheet. Lomnitz a.d. Popelka [Lomnice nad Popelkou, Czech Republic] roughly at center of sheet.  Sheet O.51, Praha (Prague) from set that includes various issues of some sheets, some by various survey units of the Allied Forces (A.F.) some reissued by U.S. Army Map Service, some sheets, G.S.G.S. 4346; some sheets A.M.S. M508 (G.S.G.S. 4346).  Heights in metres..  Certain main spot heights are indicated by a white tab to improve legibility..  Military grid.  Spheroid: Du Plessis..  Cataloging agency's copy printed on verso of portion of unrelated German map sheet, Blatt Nr. 29, Preston, Southport, und Blackpool, from series with title: England 1:50 000, originally published [Berlin] : [Generalstab des Heeres], [1940]. German series consists of enlargements of the Ordnance Survey Popular Edition one-inch maps published by the German General Staff. Maps distributed by Army Map Service following capture from foreign military during World War II.  IXA.  Includes Convergence for corners of this sheet, To give a grid reference on this sheet, Index to adjoining sheets, Grid data, Conversion table, Glossary, Authorities, and Incidence of grid letters."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Sudetes Mountains",
+        "Ore Mountains",
+        "\u00dasteck\u00fd",
+        "Czech Republic",
+        "Sachsen",
+        "Germany",
+        "Libereck\u00fd",
+        "Jiho\u010desk\u00fd",
+        "Lower Silesian",
+        "Poland",
+        "Kr\u00e1lov\u00e9hradeck\u00fd",
+        "Opole",
+        "Olomouck\u00fd",
+        "Pardubick\u00fd",
+        "Jihomoravsk\u00fd",
+        "Vyso\u010dina",
+        "St\u0159edo\u010desk\u00fd",
+        "Prague"
+    ],
+    "locn_geometry": "ENVELOPE(13.89857, 17.05826, 51.24533, 49.60519)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1032828561__praha_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1032828561__praha.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1032828561__praha.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1032828561__praha.xml\"}",
+    "id": "utaustin_121241",
+    "dct_identifier_sm": [
+        "121241"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

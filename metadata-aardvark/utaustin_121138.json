@@ -1,0 +1,46 @@
+{
+    "dct_title_s": "Buildings of Texas (Points) v. 2",
+    "dct_description_sm": [
+        "Dataset produced from the spreadsheet donated by Gerald Moorhead and created by researchers collecting data for the two-volume publication, Buildings of Texas. Architects and other contributor names have been normalized and building types have been added to portions of the dataset. In VERSION 1, Architects and other contributor names have been normalized and building types have been added to portions of the dataset. Built works with identifiable locations have been geocoded.In VERSION 2, Information about places and people/firms described in this dataset have been reconciled with Wikidata and a new field was added to record Wikidata ID information. Building typologies were significantly improved. Field names have changed.  Previous dataset versions available at https://dataverse.tdl.org/dataverse/bot"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "dct_creator_sm": [
+        "Josh Conrad, Grace Hansen, Katie Pierce Meyer, Michael Shensky, Jessica Trelogan"
+    ],
+    "dct_publisher_sm": [
+        "University of Texas Libraries"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Alexander Architectural Archives",
+        "Buildings of Texas collection"
+    ],
+    "dct_subject_sm": [
+        "architecture",
+        "architectural history",
+        "buildings",
+        "built works",
+        "history"
+    ],
+    "dct_temporal_sm": [
+        "c. 1730's-2017"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-106.603685, -93.734426, 36.400401, 25.866037)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utlarch__bot__gm__point__v2__buildings_of_texas_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utlarch__bot__gm__point__v2__buildings_of_texas.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utlarch__bot__gm__point__v2__buildings_of_texas.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlarch__bot__gm__point__v2__buildings_of_texas.xml\"}",
+    "id": "utaustin_121138",
+    "dct_identifier_sm": [
+        "121138"
+    ],
+    "gbl_mdModified_dt": "2022-02-01T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

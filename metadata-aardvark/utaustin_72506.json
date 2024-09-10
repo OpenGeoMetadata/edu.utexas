@@ -1,0 +1,42 @@
+{
+    "dct_title_s": "Augustinian Religious Professions in New Spain, 1534-1599",
+    "dct_description_sm": [
+        "Biographic and other data related to the professions of Augustinian friars in 16th-century New Spain extracted from the books of professions of the convents of Mexico City, Puebla de los Angeles, and Oaxaca. The dataset only represents professions made 1534-1599. The data pertaining to Mexico City's convent comes from the original book of professions in the Genaro Garc\u00eda Collection, call number G21. The manuscript text consists of 345 folios, dating 1537-1672; data in this book from 1600-1672 is not included in this dataset."
+    ],
+    "dct_language_sm": [
+        "Spanish; Castilian"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Benson Latin American Collection",
+        "Genaro Garc\u00eda Collection and circulating book library"
+    ],
+    "dct_subject_sm": [
+        "Catholic Church",
+        "Colonial Mexico",
+        "Religious Orders"
+    ],
+    "dct_temporal_sm": [
+        "1534-1599"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Mexico",
+        "Spain",
+        "Santo Domingo",
+        "Oaxaca",
+        "Canary Islands"
+    ],
+    "locn_geometry": "ENVELOPE(-104.653176, 9.039143, 51.498796, 14.558571)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utblac__circbook__86070891__point__v1__16thmx_osavows_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__circbook__86070891__point__v1__16thmx_osavows.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__circbook__86070891__point__v1__16thmx_osavows.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utblac__circbook__86070891__point__v1__16thmx_osavows.xml\"}",
+    "id": "utaustin_72506",
+    "dct_identifier_sm": [
+        "72506"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

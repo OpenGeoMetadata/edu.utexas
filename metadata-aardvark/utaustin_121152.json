@@ -1,0 +1,61 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1889; Sheet 8]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1889"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Randerson-Lundell Building",
+        "E. H. Carrington Grocery Store and Lyons Hall",
+        "Old Depot Hotel",
+        "Paggi Carriage Shop",
+        "Austin",
+        "Waller Creek",
+        "78701",
+        "78702",
+        "7th St E",
+        "Brushy St",
+        "E 4th St",
+        "E 5th St",
+        "E 6th St",
+        "E 7th St",
+        "E 8th St",
+        "E 9th St",
+        "I- 35",
+        "I- 35 Svc Rd N",
+        "N I- 35 Svc Rd",
+        "Neches St",
+        "Red River St",
+        "Sabine St",
+        "Trinity St",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.73888, -97.7338, 30.26883, 30.26469)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1889__1k__x__8_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1889__1k__x__8.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1889__1k__x__8.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1889__1k__x__8.xml\"}",
+    "id": "utaustin_121152",
+    "dct_identifier_sm": [
+        "121152"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

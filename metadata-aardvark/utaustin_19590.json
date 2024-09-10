@@ -1,0 +1,40 @@
+{
+    "dct_title_s": "1:250,000, 1:250,000 (AMS N502), Sheet Nj39 4 (AMS N502), Western Siberia",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: transverse mercator;  Relief Symbology: contours, shading, form lines;  Map Type: Topographic maps;  Other Descriptive Notes about Map Series:   Issued in quadrangles of 1\u2082 of latitude by 2-3\u2082 of longitude. Set includes various issues of some sheets.  Transverse Mercator projection.  Relief indicated variously by contours, form lines, shading, and spot heights.  Coordinated with series N501, Eastern Europe and N503, Central Siberia.  Each sheet includes Glossary and Location diagram.  Some sheets have city maps on versos.  Accompanied by index map on 2 sheets 27 x 41-51 cm."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1954"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Celeken",
+        "Turkmenistan",
+        "T\u00fcrkmenba\u015fy",
+        "Balkan"
+    ],
+    "locn_geometry": "ENVELOPE(52.40397, 54.32396, 40.07226, 38.81201)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__western_siberia_n502__250k__6559336__nj39_4_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__western_siberia_n502__250k__6559336__nj39_4.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__western_siberia_n502__250k__6559336__nj39_4.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__western_siberia_n502__250k__6559336__nj39_4.xml\"}",
+    "id": "utaustin_19590",
+    "dct_identifier_sm": [
+        "19590"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

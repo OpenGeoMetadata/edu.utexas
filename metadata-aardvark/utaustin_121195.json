@@ -1,0 +1,82 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1921; Sheet 96]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1921"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "The Academy",
+        "Helena and Robert Ziller House",
+        "Ollie O. Norwood Estate",
+        "Austin",
+        "Blunn Creek",
+        "Colorado River",
+        "Lady Bird Lake",
+        "78701",
+        "78702",
+        "78704",
+        "78741",
+        "Academy Dr",
+        "Alameda Dr",
+        "Alta Vista Ave",
+        "Avondale Rd",
+        "Betty Jo Dr",
+        "Bickler Rd",
+        "Bonham Ter",
+        "Chelsea Ln",
+        "E Riverside Dr",
+        "E Side Dr",
+        "East Ave",
+        "Edgecliff Ter",
+        "Elmhurst Dr",
+        "Fairmount Ave",
+        "Harwood Pl",
+        "I- 35",
+        "I- 35 Svc Rd S",
+        "Kenwood Ave",
+        "Le Grande Ave",
+        "Milam Pl",
+        "Mission Rdg",
+        "Monroe St E",
+        "Newning Ave",
+        "Parkinson Dr",
+        "Pecan Grove Rd",
+        "Reagan Ter",
+        "Rutherford Pl",
+        "S I- 35 Svc Rd",
+        "Summit St",
+        "Sunny Vale St",
+        "Sunset Ln",
+        "Travis Heights Blvd",
+        "Woodland Ave",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.74476, -97.73434, 30.25187, 30.24236)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1921__1k__x__96_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__96.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__96.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1921__1k__x__96.xml\"}",
+    "id": "utaustin_121195",
+    "dct_identifier_sm": [
+        "121195"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

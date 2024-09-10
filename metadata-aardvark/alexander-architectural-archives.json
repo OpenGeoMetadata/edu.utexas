@@ -1,0 +1,26 @@
+{
+    "dct_title_s": "Alexander Architectural Archives",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_subject_sm": [
+        "architecture",
+        "architectural history",
+        "buildings",
+        "built works",
+        "history"
+    ],
+    "dct_temporal_sm": [
+        "c. 1730's-2017"
+    ],
+    "dct_spatial_sm": [
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-106.603685, -93.734426, 36.400401, 25.866037)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "alexander-architectural-archives",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,58 @@
+{
+    "dct_title_s": [
+        "Sanborn Fire Insurance Maps [San Angelo, Texas, 1894, Sheet 4]"
+    ],
+    "dct_alternative_sm": [],
+    "dct_description_sm": [
+        "Originally published by Sanborn Map Co., New York; name of publisher and place of publication varies.",
+        "Fire insurance map, hand-colored to show building construction, locations of windows and doors, elevators, and available water facilities.",
+        "Shows factories, commercial occupancy of buildings, property boundaries and house and block numbers.",
+        "Includes notes on population, fire departments, and prevailing winds.",
+        "Includes location map and key to building colors and other features.",
+        "This scanned map image was georeferenced using an automated process developed by the UT Libraries. The code for used in this process can be accessed on GitHub at https://github.com/utlibraries/histmap-autogeoref-tools. If you discover significant issues with this automatically georeferenced map please contact gis@lib.utexas.edu to report the problem."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "dct_creator_sm": [
+        "Sanborn Map Company (cartographer)"
+    ],
+    "dct_publisher_sm": [],
+    "schema_provider_s": "Texas",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Raster data"
+    ],
+    "dcat_theme_sm": [],
+    "dcat_keyword_sm": [],
+    "dct_temporal_sm": "1894",
+    "dct_issued_s": "1894",
+    "gbl_indexYear_im": "1894",
+    "gbl_dateRange_drsim": [],
+    "dct_subject_sm": [
+        "Fire risk assessment maps",
+        "Scanned maps",
+        "Georeferenced maps"
+    ],
+    "dct_spatial_sm": [
+        "San Angelo"
+    ],
+    "locn_geometry": "ENVELOPE(-100.44039527697747,-100.43482154485463,31.461653948724177,31.45769292779285)",
+    "dcat_bbox": "ENVELOPE(-100.44039527697747,-100.43482154485463,31.461653948724177,31.45769292779285)",
+    "pcdm_memberOf_sm": [],
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection"
+    ],
+    "dct_rights_sm": "public access",
+    "dct_license_sm": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoTIFF",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://collections.lib.utexas.edu/catalog/utlmaps:7d2fcea8-0954-4a7c-b9b7-b2999189e04d\",\"http://schema.org/downloadUrl\":\"https://curio.lib.utexas.edu/geodata/raster/utlmaps-7d2fcea8-0954-4a7c-b9b7-b2999189e04d-cog.tif\",\"https://github.com/cogeotiff/cog-spec\":\"https://curio.lib.utexas.edu/geodata/raster/utlmaps-7d2fcea8-0954-4a7c-b9b7-b2999189e04d-cog.tif\"}",
+    "id": "utlmaps:7d2fcea8-0954-4a7c-b9b7-b2999189e04d",
+    "dct_identifier_sm": "utlmaps:7d2fcea8-0954-4a7c-b9b7-b2999189e04d",
+    "gbl_mdModified_dt": "2024-05-25T03:29:41Z",
+    "gbl_mdVersion_s": "Aardvark",
+    "b1g_code_s": ""
+}

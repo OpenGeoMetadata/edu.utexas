@@ -1,0 +1,13 @@
+{
+    "dct_title_s": "National Imagery and Mapping Agency collection",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "locn_geometry": "ENVELOPE(-79.252091, -75.516331, 0.66553, -4.836618)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "national-imagery-and-mapping-agency-collection",
+    "gbl_mdVersion_s": "Aardvark"
+}

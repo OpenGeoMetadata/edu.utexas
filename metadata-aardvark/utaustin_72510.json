@@ -1,0 +1,40 @@
+{
+    "dct_title_s": "El Salvador\u2019s Registered Displaced Population by Municipality, 1983",
+    "dct_description_sm": [
+        "Polygon shapefile of El Salvador\u2019s municipalities representing registered displaced population by municipality in 1983. The data was derived from John Mullaney, \u201cAiding the Desplazados of El Salvador: The Complexity of Humanitarian Assistance\u201d report (Washington, D.C.: U.S. Committee for Refugees, Fall 1984), Table 2, titled \u201cBreakdown of the Displaced Populations (Registered) by Municipality\u201d. According to Mullaney, the source for Table 2 was the National Commission for the Assistance to Displaced People (CONADES). This publication is in Box 206, Folder 1 of the Julian Samora Collection at the Benson Latin American Collection."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Benson Latin American Collection",
+        "Julian Samora Collection"
+    ],
+    "dct_subject_sm": [
+        "El Salvador--History--Civil War",
+        "1979-1992",
+        "Refugees",
+        "Human rights"
+    ],
+    "dct_temporal_sm": [
+        "20th century",
+        "1983"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "El Salvador"
+    ],
+    "locn_geometry": "ENVELOPE(-90.132002, -87.68407, 14.450933, 13.155405)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utblac__samoju__206_1__poly__v1__elsalv_pop_disp_muni_1983_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__samoju__206_1__poly__v1__elsalv_pop_disp_muni_1983.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__samoju__206_1__poly__v1__elsalv_pop_disp_muni_1983.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utblac__samoju__206_1__poly__v1__elsalv_pop_disp_muni_1983.xml\"}",
+    "id": "utaustin_72510",
+    "dct_identifier_sm": [
+        "72510"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,58 @@
+{
+    "dct_title_s": [
+        "Sanborn Fire Insurance Maps [Cotulla, Texas, 1933, Sheet 3]"
+    ],
+    "dct_alternative_sm": [],
+    "dct_description_sm": [
+        "Originally published by Sanborn Map Co., New York; name of publisher and place of publication varies.",
+        "Fire insurance map, hand-colored to show building construction, locations of windows and doors, elevators, and available water facilities.",
+        "Shows factories, commercial occupancy of buildings, property boundaries and house and block numbers.",
+        "Includes notes on population, fire departments, and prevailing winds.",
+        "Includes location map and key to building colors and other features.",
+        "This scanned map image was georeferenced using an automated process developed by the UT Libraries. The code for used in this process can be accessed on GitHub at https://github.com/utlibraries/histmap-autogeoref-tools. If you discover significant issues with this automatically georeferenced map please contact gis@lib.utexas.edu to report the problem."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "dct_creator_sm": [
+        "Sanborn Map Company (cartographer)"
+    ],
+    "dct_publisher_sm": [],
+    "schema_provider_s": "Texas",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Raster data"
+    ],
+    "dcat_theme_sm": [],
+    "dcat_keyword_sm": [],
+    "dct_temporal_sm": "1933",
+    "dct_issued_s": "1933",
+    "gbl_indexYear_im": "1933",
+    "gbl_dateRange_drsim": [],
+    "dct_subject_sm": [
+        "Fire risk assessment maps",
+        "Scanned maps",
+        "Georeferenced maps"
+    ],
+    "dct_spatial_sm": [
+        "Cotulla"
+    ],
+    "locn_geometry": "ENVELOPE(-99.24409491030468,-99.23632692112665,28.43883404496382,28.432618614185873)",
+    "dcat_bbox": "ENVELOPE(-99.24409491030468,-99.23632692112665,28.43883404496382,28.432618614185873)",
+    "pcdm_memberOf_sm": [],
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection"
+    ],
+    "dct_rights_sm": "public access",
+    "dct_license_sm": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoTIFF",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://collections.lib.utexas.edu/catalog/utlmaps:43085696-c576-42f0-a699-895ac1e8c371\",\"http://schema.org/downloadUrl\":\"https://curio.lib.utexas.edu/geodata/raster/utlmaps-43085696-c576-42f0-a699-895ac1e8c371-cog.tif\",\"https://github.com/cogeotiff/cog-spec\":\"https://curio.lib.utexas.edu/geodata/raster/utlmaps-43085696-c576-42f0-a699-895ac1e8c371-cog.tif\"}",
+    "id": "utlmaps:43085696-c576-42f0-a699-895ac1e8c371",
+    "dct_identifier_sm": "utlmaps:43085696-c576-42f0-a699-895ac1e8c371",
+    "gbl_mdModified_dt": "2024-05-25T03:25:29Z",
+    "gbl_mdVersion_s": "Aardvark",
+    "b1g_code_s": ""
+}

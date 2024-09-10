@@ -1,0 +1,35 @@
+{
+    "dct_title_s": "1:500,000, 1:500,000 (AMS F401), Sheet Tehuantepec Ne (AMS F401), Mexico",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:500000;  Relief Symbology: contours, gradient and bathymetric tints;  Other Descriptive Notes about Map Series:   [U.S. Army Map Service.  A. M. S. F401]  Set includes various issues of some sheets.  Elevations are indicated in meters by contours and altitude tints.  In addition to aeronautical information, four classes of roads or trails, three classes of railroads, and telephone and telegraph lines are shown.  By Geographic Branch, Military Intelligence Division (G-2) General Staff, U. S. A.  Marginal diagrams: Relative reliability.--Sheet index."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1933"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": null,
+    "locn_geometry": "ENVELOPE(-96.11962, -89.87919, 18.092, 15.86852)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__mexico_f401__500k__6476871__tehuantepec_ne_15_s_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__mexico_f401__500k__6476871__tehuantepec_ne_15_s.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__mexico_f401__500k__6476871__tehuantepec_ne_15_s.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__mexico_f401__500k__6476871__tehuantepec_ne_15_s.xml\"}",
+    "id": "utaustin_19342",
+    "dct_identifier_sm": [
+        "19342"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

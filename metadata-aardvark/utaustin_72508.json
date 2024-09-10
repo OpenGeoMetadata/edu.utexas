@@ -1,0 +1,42 @@
+{
+    "dct_title_s": "Historical Landmarks in Rio de Janeiro, Brazil, 1928",
+    "dct_description_sm": [
+        "Data generated from \u201cPlanta da cidade do Rio de Janeiro: organisada na carta cadastral\u201d, a historical map at the Benson Latin American Collection (call number G5404 R6 1928 D5). The digitized map images are available from the Perry-Casta\u00f1eda Library Map Collection as a single image. The dataset was generated through Map Warper (Tim Waters) georectifier and image georeferencing software and Esri ArcGis Online. The data represents the historical location of 144 locations in the city of Rio de Janeiro of government buildings, churches, mountains, roads, and plazas. The map was created in 1928 as a Rio de Janeiro city plan cadastral map and it was georeferenced with a contemporary OpenStreetMap version (2020). The locations are named when available in the historical and contemporary map, and the discrepancies in the naming were also identified, including when the spelling was modernized in the contemporary map. If the buildings did not have a name or if the name was illegible they were marked as \u201cnull\u201d. The historical and contemporary use of the locations were added based on the names of the buildings using the following categories: avenue, cemetery, church, convent, dam, dock, education building, factory, fort, fortress, government building, health building, hill, island, market, military building, monastery, mountain, national library, null, palace, park, penitentiary, plaza, police building, road, rock formation, school of fine arts, sports club, and train station."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Benson Latin American Collection",
+        "Rare Maps Collection"
+    ],
+    "dct_subject_sm": [
+        "Brazil--Maps",
+        "Brazil--History--20th century",
+        "Brazil--History",
+        "Rio de Janeiro (Brazil)--Map",
+        "Roads--Brazil--Maps"
+    ],
+    "dct_temporal_sm": [
+        "20th century",
+        "1928"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Rio de Janeiro",
+        "Brazil"
+    ],
+    "locn_geometry": "ENVELOPE(-43.293887, -43.146855, -22.824996, -22.9904)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utblac__rare__maps_214284263__point__v1__riodejaneiro_1928_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__rare__maps_214284263__point__v1__riodejaneiro_1928.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__rare__maps_214284263__point__v1__riodejaneiro_1928.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utblac__rare__maps_214284263__point__v1__riodejaneiro_1928.xml\"}",
+    "id": "utaustin_72508",
+    "dct_identifier_sm": [
+        "72508"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

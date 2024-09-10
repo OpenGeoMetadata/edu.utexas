@@ -1,0 +1,27 @@
+{
+    "dct_title_s": "Relaciones Geograficas collection",
+    "dct_description_sm": "",
+    "dct_language_sm": [
+        "Spanish; Castilian"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_subject_sm": [
+        "History",
+        "Anthropology",
+        "Ethnohistory",
+        "Geography"
+    ],
+    "dct_temporal_sm": [
+        "Early Modern",
+        "Spanish Colonial"
+    ],
+    "dct_spatial_sm": [
+        "Mexico",
+        "Guatemala"
+    ],
+    "locn_geometry": "ENVELOPE(-104.358237, -91.229887, 21.436978, 14.539595)",
+    "dct_accessRights_s": "Public",
+    "gbl_resourceClass_sm": "Collections",
+    "id": "relaciones-geograficas-collection",
+    "gbl_mdVersion_s": "Aardvark"
+}

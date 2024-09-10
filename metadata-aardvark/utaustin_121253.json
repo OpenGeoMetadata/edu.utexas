@@ -1,0 +1,49 @@
+{
+    "dct_title_s": "Havre-Amiens, Sheet no. 4, North west Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, and spot heights.  Three classes of railways and five classes of roads are shown.  Covers area north from Montreuil to Clermont to the south, and west from Deauville to Amiens to the east. Le Havre roughly at lower left corner of sheet. Amiens roughly at center right portion of sheet.  Sheet no. 4, Havre-Amiens from set covering most of the Low Countries and northeastern France. Set includes various issues of some sheets, some reissued by U.S. Army Map Service. Some sheets have series designation A.M.S. M503 (G.S.G.S. 4042).  Published by the War Office, 1938..  2nd. Edition 1943..  Military grid.  Nord de Guerre Zone Grid (Blue). Projection, Lambert Conical Orthomorphic. Spheroid, Du Plessis (reconstituted). ... British Modified Grid (Purple). Projection, Cassini. Spheroid, Airy..  Heights in metres..  Contour interval 50 metres..  Cataloging agency's copy overprinted with 1 dashed blue diagonal line extending south/notheast from roughly W 0\u00b025\u02b9/N 49\u00b015\u02b9 to W 0\u00b044\u02b9/N 50\u00b030\u02b9 with designation: 9\u00b030\u02b9 W (June 1943).  IXA.  Cataloging agency's copy overprinted with 1 solid blue diagonal line extending south/northeast from roughly E 1\u00b027\u02b9/N 49\u00b015\u02b9 to E 1\u00b045\u02b9/N 50\u00b030\u02b9 with designation: 9\u00b0 W (June 1943.  IXA.  Includes Conversion table, Incidence of grid letters and Index to adjoining sheets, To give a grid reference on this sheet, Nord de Guerre Zone Grid (Blue) convergence diagram, British Modified Grid (Purple) convergence diagram, and Reliability diagram.  100,000/5/43.E.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "British Isles",
+        "Normandy",
+        "North European Plain",
+        "Calvados",
+        "France",
+        "Eure",
+        "Seine-Maritime",
+        "Somme",
+        "Pas-de-Calais",
+        "Seine-Saint-Denis",
+        "Val-d'Oise",
+        "Yvelines",
+        "Oise",
+        "Seien-et-Marne"
+    ],
+    "locn_geometry": "ENVELOPE(-0.23579, 2.57901, 50.5735, 48.97589)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1042075342__havre_amiens_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1042075342__havre_amiens.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1042075342__havre_amiens.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1042075342__havre_amiens.xml\"}",
+    "id": "utaustin_121253",
+    "dct_identifier_sm": [
+        "121253"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

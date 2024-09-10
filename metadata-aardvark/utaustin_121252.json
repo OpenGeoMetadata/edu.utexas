@@ -1,0 +1,54 @@
+{
+    "dct_title_s": "Lille-Ghent, Sheet no. 2, North west Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, shading, and spot heights. Depths shown by gradient tints.  Three classes of railways and five classes of roads are shown.  Covers area north from Flushing (Vlissingen),Netherlands to Valanciennes, France to the south, and west from Quesques, France to Brussels to the east. Lille roughly just below center of sheet. Ghent roughly at center right portion of sheet.  Sheet 2, Lille-Ghent from set covering most of the Low Countries and northeastern France. Set includes various issues of some sheets, some reissued by U.S. Army Map Service. Some sheets have series designation A.M.S. M503 (G.S.G.S. 4042).  Military grid.  British Modified Grid. Projection, Cassini. Spheroid, Airy. ... Nord de Guerre Zone Grid. Projection, Lambert Conical Orthomorphic. Spheroid, DuPlessis (reconstituted)..  Heights in metres..  Contour interval 50 metres..  Cataloging agency's copy overprinted with 1 dashed blue diagonal line extending south/northeast from roughly E 2\u00b048\u02b9/N 50\u00b020\u02b9 to E3\u00b00\u02b9/N 51\u00b027\u02b9 with designation: 8\u00b030\u02b9 W (June 1943).  IXA.  Cataloging agency's copy overprinted with 1 solid blue diagonal line extending south/northeast from roughly E 3\u00b043\u02b9/N 50\u00b020\u02b9 to E 3\u00b055\u02b9/N 51\u00b027\u02b9 with designation: 8\u00b0 W (June 1943).  IXA.  Includes Conversion table, convergence diagram, Index of grid letters and index to adjoining sheets, Reliability diagram, and To give a grid reference on this sheet.  50,000/12/43 E.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1943"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "British Isles",
+        "Ardennes",
+        "North European Plain",
+        "Nord",
+        "France",
+        "West Flanders",
+        "Belgium",
+        "Hainaut",
+        "Namur",
+        "Zeeland",
+        "Netherlands",
+        "East Flanders",
+        "Noord-Brabant",
+        "Antwerp",
+        "Brussels",
+        "Flemish Brabant",
+        "Walloon Brabant",
+        "Somme",
+        "Pas-de-Calais"
+    ],
+    "locn_geometry": "ENVELOPE(1.70747, 4.82455, 51.549, 50.09297)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1035421913__lillle_ghent_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1035421913__lillle_ghent.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1035421913__lillle_ghent.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1035421913__lillle_ghent.xml\"}",
+    "id": "utaustin_121252",
+    "dct_identifier_sm": [
+        "121252"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

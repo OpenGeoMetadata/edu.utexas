@@ -1,0 +1,34 @@
+{
+    "dct_title_s": "Passau , Sheet N 49, Germany 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, spot heights, and gradient tints.  Five classes of railways and five classes of roads are shown.  Covers area west from W\u00f6rth an der Isar, Germany to Linz, Austria to the east, and north from Frauenau, Germany to V\u00f6cklabruck, Austria to the south. Passau roughly at right of center of sheet.  Sheet N.49, Passau from series originally issued in various editions by Great Britain, War Office, Geographical Section, General Staff, No. 4346.  For use by War and Navy Department Agencies only. Not for sale or distribution..  Military grid.  Nord de Guerre Zone Grid ... Spheroid, Du Plessis..  Cataloging agency's copy overprinted with 4 coordinate scale circles with center points located roughly at E 12\u00b045\u02b9/N 48\u00b046\u02b9 ; E 13\u00b036\u02b9/N 48\u00b046\u02b9 ; E 13\u00b057\u02b9/N 48\u00b017\u02b9 ; E 13\u00b09\u02b9/N 48\u00b017\u02b9.  IXA.  Heights in metres..  Certain main spot heights are indicated by a white tab to improve legibility..  Includes legend, Incidence of grid letters diagrams, Convergence for corners of this sheet diagram, To give a grid reference on this sheet, Grid data: Nord de Guerre Grid, Index to adjoining sheets, Index to corresponding sheets of G.S.G.S. 4081, Germany 1/100,000, Conversion table, Authorities, and Glossary.  5/44FD.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": null,
+    "locn_geometry": "ENVELOPE(12.20055, 14.75619, 49.13616, 47.64659)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1055162446__passau_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055162446__passau.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055162446__passau.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1055162446__passau.xml\"}",
+    "id": "utaustin_121281",
+    "dct_identifier_sm": [
+        "121281"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

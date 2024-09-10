@@ -1,0 +1,57 @@
+{
+    "dct_title_s": "Chalons-Nancy, Sheet no. 9, North west Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, gradient tints, and spot heights.  Three classes of railways and five classes of roads are shown.  Covers area north from Arlon, Belgium to St. Dizier, France to the south, and west from Verzy, France to Bouzonville, France to the east. Ch\u00e2lons-sur-Marne roughly just below center left portion of sheet. Nancy roughly at lower right portion of sheet. Verdun roughly at center of sheet.  Sheet No. 9, Chalons-Nancy from set covering most of the Low Countries and northeastern France. Set includes various issues of some sheets, some reissued by U.S. Army Map Service. Some sheets have series designation A.M.S. M503 (G.S.G.S. 4042).  For use by War and Navy Department Agencies only. Not for sale or distribution..  Published by the War Office, 1938..  Second G.S.G.S. Edition, Revised 1942. Second G.S.G.S. Army-Air Edition, 1943..  Military grid.  Nord de Guerre Zone Grid (Blue). Projection, Lambert Conical Orthomorphic. Spheroid, DuPlessis (reconstituted)..  Heights in metres. Certain main spot heights are indicated by a white tab to improve legibility..  Contour interval 50 metres..  Cataloging agency's copy overprinted with 1 dashed blue diagonal line extending south/northeast from roughly E 4\u00b023\u02b9/N 48\u00b033\u02b9 to E 4\u00b040\u02b9/N 49\u00b043\u02b9 with designation: 7\u00b030\u02b9 W (June 1943).  IXA.  Cataloging agency's copy overprinted with 1 solid blue diagonal line extending south/northeast from roughly E 5\u00b0\u02b941/N 48\u00b033\u02b9 to E 5\u00b052\u02b9/N 9\u00b043\u02b9 with designation: 7\u00b0 W (June 1943).  IXA.  Cataloging agency's copy overprinted with 4 coordinate scale circles with center points located roughly at E 4\u00b044\u02b9/N 49\u00b025\u02b9 ; E 5\u00b053\u02b9/N 49\u00b019\u02b9 ; E 6\u00b00\u02b9/N 48\u00b052\u02b9 ; E 4\u00b046\u02b9/N 48\u00b0\u02b949.  IXA.  Includes Conversion graph, Incidence of grid letters and Index to adjoining sheets, To give a grid reference on this sheet, Nord de Guerre Zone Grid (Blue) convergence diagram, and Reliability diagram.  5-44.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Lac d'Orient",
+        "\u00c9tang de Bonnevais",
+        "Lac d'Orient",
+        "Vosges Mountains",
+        "Ardennes",
+        "Rheinland-Pfalz",
+        "Germany",
+        "Diekirch",
+        "Luxembourg",
+        "Grevenmacher",
+        "Saarland",
+        "France",
+        "Namur",
+        "Belgium",
+        "Aisne",
+        "Meuse",
+        "Meurthe-et-Moselle",
+        "Moselle",
+        "Haute-Marne",
+        "Marne",
+        "Vosges",
+        "Aube"
+    ],
+    "locn_geometry": "ENVELOPE(3.85054, 6.87777, 49.83057, 48.27985)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1042075616__chalons_nancy_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1042075616__chalons_nancy.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1042075616__chalons_nancy.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1042075616__chalons_nancy.xml\"}",
+    "id": "utaustin_121257",
+    "dct_identifier_sm": [
+        "121257"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

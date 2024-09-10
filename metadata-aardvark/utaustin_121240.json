@@ -1,0 +1,71 @@
+{
+    "dct_title_s": "Graz , Sheet O 48, Central Europe 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours and spot heights.  Five classes of roads and four classes of railroads are shown.  Covers area north from Loich to Graz to the south, and west from R\u00f6ttenmann to Kirchschlag to the east. Graz roughly at lower center of sheet.  Sheet O 48, Graz from set that includes various issues of some sheets, some by various survey units of the Allied Forces (A.F.) some reissued by U.S. Army Map Service, some sheets, G.S.G.S. 4346; some sheets A.M.S. M508 (G.S.G.S. 4346).  Heights in metres..  Certain main spot heights are indicated by a white tab to improve legibility..  Military grid.  Spheroid: Du Plessis..  The graticule on this map agrees with that shown on German maps. To convert it to the Greek datum on which the graticule of G.S.G.S. 4413, which adjoins it to the South is based, subtract 3\u02ba from the latitudes and 16\u02ba from the longitudes..  Includes Convergence for corners of this sheet, To give a grid reference on this sheet, Index to adjoining sheets, Conversion table, Austrian glossary, Key to pronunciation, Authorities, and Incidence of grid letters. Also includes altitude tints scale that lacks tints.  30/11-44/P. Dupont/5098.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Neusiedlersee",
+        "Neusiedlersee",
+        "Alps",
+        "Nieder\u00f6sterreich",
+        "Austria",
+        "Ober\u00f6sterreich",
+        "Gyor-Moson-Sopron",
+        "Hungary",
+        "Burgenland",
+        "Sopron",
+        "Vas",
+        "Zala",
+        "Moravske Toplice",
+        "Slovenia",
+        "\u0160alovci",
+        "Hodo\u0161",
+        "Gornji Petrovci",
+        "Kuzma",
+        "Dobrovnik",
+        "Kobilje",
+        "K\u00e4rnten",
+        "Roga\u0161ovci",
+        "Steiermark",
+        "Cankova",
+        "Gornja Radgona",
+        "Apace",
+        "\u0160entilj",
+        "Kungota",
+        "Pesnica",
+        "Sveta Ana",
+        "Puconci",
+        "Grad",
+        "Murska Sobota",
+        "Wien",
+        "Szombathely",
+        "Zalaegerszeg"
+    ],
+    "locn_geometry": "ENVELOPE(14.16085, 16.85242, 48.15096, 46.67366)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1032828531__graz_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1032828531__graz.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1032828531__graz.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1032828531__graz.xml\"}",
+    "id": "utaustin_121240",
+    "dct_identifier_sm": [
+        "121240"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

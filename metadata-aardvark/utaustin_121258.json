@@ -1,0 +1,46 @@
+{
+    "dct_title_s": "Osnabr\u00fcck , Sheet K 53, Germany 1:250,000.",
+    "dct_description_sm": [
+        "Scale: 1:250000;  Projection: Lambert conical orthomorphic projection;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours, spot heights, and gradient tints.  Five classes of railways and five classes of roads are shown.  Covers area west from Den Ham, Netherlands to Bohmte, Germany to the east, and north from Esterwegen, Germany to Sankt Mauritz, Germany to the south. Osnabr\u00fcck roughly at lower right corner of sheet.  Sheet K53, Osnabr\u00fcck from series originally issued in various editions by Great Britain, War Office, Geographical Section, General Staff, No. 4346.  For use by War and Navy Department Agencies only. Not for sale or distribution..  Military grid.  Nord de Guerre Zone Grid ... Spheroid, Du Plessis..  Cataloging agency's copy overprinted with 4 coordinate scale circles with center points located roughly at E 6\u00b056\u02b9/N 52\u00b048\u02b9; E 7\u00b051\u02b9/N 52\u00b049\u02b9; E 7\u00b047\u02b9/N 52\u00b021\u02b9; E 6\u00b050\u02b9/N 52\u00b09\u02b9.  IXA.  Heights in metres..  Certain main spot heights are indicated by a white tab to improve legibility..  Includes legend, Incidence of grid letters diagrams, Convergence for corners of this sheet diagram, To give a grid reference on this sheet, Grid data: Nord de Guerre Grid , index to adjoining sheets, index to corresponding 1:100,000 scale sheets, conversion table, Authorities, and Glossary. Also includes printer's color control bar in upper margin.  12-44. WA.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "North European Plain",
+        "Groningen",
+        "Netherlands",
+        "Niedersachsen",
+        "Germany",
+        "Drenthe",
+        "Overijssel",
+        "Nordrhein-Westfalen",
+        "Gelderland",
+        "Friesland",
+        "Bremen"
+    ],
+    "locn_geometry": "ENVELOPE(6.24738, 8.81665, 53.14313, 51.64956)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__250k__1055161228__osnabruck_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055161228__osnabruck.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__250k__1055161228__osnabruck.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__250k__1055161228__osnabruck.xml\"}",
+    "id": "utaustin_121258",
+    "dct_identifier_sm": [
+        "121258"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

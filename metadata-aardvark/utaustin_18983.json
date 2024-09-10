@@ -1,0 +1,55 @@
+{
+    "dct_title_s": "1:1,000,000, 1:1,000,000 (GSGS 2555), Sheet Qui Nhon (GSGS 2555), Asia",
+    "dct_publisher_sm": "United States. Army Map Service.",
+    "dct_description_sm": [
+        "Scale: 1:1000000;  Map Type: Topographic maps;  Other Descriptive Notes about Map Series: Set includes various issues of some sheets, some reissued by U. S. Army map service.  Some sheets are compiled by the Royal geographical society, Survey of India, British Middle East forces or U. S. Army map service.  Some sheets are included in series M. D. R. 1 and HIND 5000.  Modified polyconic projection of the International 1/m map.  Elevations shown by contours and altitude tints.  Several classes of roads and railroads are shown.  Some sheets have air information and are designed as Aeronautical edition, Army/Air style or Ground/Air..  Reference (Legende) in English and French.  Set is supplemented by East Indies 1:1,000,000 (G. S. G. S. 4204) Eastern Asia 1:1,000,000 (A. M. S. 5301) and Western Asia 1:1,000,000 (A. M. S. 5302)."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Army Map Service collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1916"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Paracel Islands",
+        "Central Highlands",
+        "Cha\u00eene Annamitique",
+        "Mainland Southeast Asia",
+        "Kon Tum",
+        "Vietnam",
+        "\u0110\u1eafk N\u00f4ng",
+        "\u0110\u1eafk L\u1eafk",
+        "Gia Lai",
+        "Qu\u00e0ng Nam",
+        "Kh\u00e1nh H\u00f2a",
+        "Ninh Thu\u1eadn",
+        "Ph\u00fa Y\u00ean",
+        "B\u00ecnh \u0110\u1ecbnh",
+        "Qu\u1ea3ng Ng\u00e3i",
+        "\u0110\u00e0 N\u1eb5ng",
+        "Paracel Islands",
+        "China",
+        "L\u00e2m \u0110\u1ed3ng"
+    ],
+    "locn_geometry": "ENVELOPE(108.0, 114.0, 16.0, 12.0)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__ams__asia__1000k__6622985__qui_nhon_nd_49_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__asia__1000k__6622985__qui_nhon_nd_49.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__ams__asia__1000k__6622985__qui_nhon_nd_49.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__ams__asia__1000k__6622985__qui_nhon_nd_49.xml\"}",
+    "id": "utaustin_18983",
+    "dct_identifier_sm": [
+        "18983"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

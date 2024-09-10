@@ -1,0 +1,47 @@
+{
+    "dct_title_s": "Verdun, Sheet 21, Belgium & N.E. France 1:100,000.",
+    "dct_description_sm": [
+        "Scale: 1:100000;  Map Type: lcgft;  Other Descriptive Notes about Map Series: Relief shown by contours and spot heights.  Waterways, eight classes of roads and tracks, four classes of railroads, and woods, orchards, and brushwood are indicated.  Covers area north from Stenay to Troyon to the south, and west from Landres to Fontoy to the east. Verdun is roughly below center left of sheet.  Modified reprint of Sheet 21, Verdun, from G.S.G.S. series 4336 covering Belgium and N.E. France in 21 sheets. Originally published: [London] : War Office, 1942-. Series includes various issues of some sheets, some issued by U.S. Army Map Service, A.M.S. M603.  Published by War Office, 1943..  For use by War Department and Navy Department Agencies only. Not for sale or distribution..  Contour interval 10 metres; every 100 accentuated. The system of contouring on this sheet can only be considered approximately correct..  Lacks gradient altitude tints present on some sheets from original series.  Military grid.  The grid on this map is Nord de Guerre Zone..  Cataloging agency's copy has black overprint circles around 11 mapped locations, each connected by a single black overprint line to a handwritten annotation in black marker ink in left, right, or lower margins: Consenvoye--Class I (Indianapolis) -- Chattancourt--Class II (Titusville) -- Charny--Class I (Milwaukee) -- Distillery, southwest of Verdun along railroad line--Class III (Muscogee) -- Verdun--Class I-II-IV (Chicago), (Oconomowoc), (New York) -- Dugny--Class I (Kansas City) -- Junction of railroad line and other road/cart track directly south of Dugny--Class III (Beaumont) -- Jeandelize--Class III (Fort Worth) -- Homecourt--Class I (Green Bay) -- Mancieulles--Class III (Tulsa) -- Landres--Class III (Oil City).  IXA.  Includes legend, Reliability diagram, magnetic declination diagram, grid reference diagram, and Incidence of grid letters and index to adjoining sheets.  5/44 SL.."
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Field Maps of Colonel Roland T. Fenton"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1944"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Metz",
+        "Mosel",
+        "Maas",
+        "Aire",
+        "Ardennes",
+        "France",
+        "Luxembourg",
+        "Belgium",
+        "Meuse",
+        "Meurthe-et-Moselle",
+        "Moselle",
+        "Marne"
+    ],
+    "locn_geometry": "ENVELOPE(4.91105, 6.18536, 49.55033, 48.94513)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__cc__fenton__100k__1031402066__verdun_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__100k__1031402066__verdun.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__cc__fenton__100k__1031402066__verdun.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__cc__fenton__100k__1031402066__verdun.xml\"}",
+    "id": "utaustin_121238",
+    "dct_identifier_sm": [
+        "121238"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

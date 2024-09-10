@@ -1,0 +1,89 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1921; Sheet 75]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1921"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Hill",
+        "William Green",
+        "House",
+        "Fischer House",
+        "Henry H. and Bertha Sterzing Ziller House",
+        "King-Von Rosenberg House",
+        "Crusemann-Marsh-Bell House",
+        "Okewell",
+        "TMI Castle",
+        "Pease Park",
+        "Matsen House",
+        "Austin",
+        "Shoal Creek",
+        "78701",
+        "78703",
+        "78705",
+        "15th St W",
+        "Baylor St",
+        "Blanco St",
+        "Castle Hill St",
+        "Castle Ct",
+        "Enfield Rd",
+        "Harthan St",
+        "Kingsbury St",
+        "Lorrain St",
+        "Marshall Ln",
+        "Maufrais St",
+        "Murray Ln",
+        "N Lamar Blvd",
+        "Nelson St",
+        "Palma Plz",
+        "Parkway",
+        "Pearl St",
+        "San Gabriel St",
+        "Shelley Ave",
+        "Shoal Creek Blvd",
+        "Vance Cir",
+        "W 11th St",
+        "W 10th St",
+        "W 12th St",
+        "W 13th St",
+        "W 18th St",
+        "W 15th St",
+        "W 16th St",
+        "W 17th St",
+        "W 7th St",
+        "W 8th St",
+        "W 9th 1/2 St",
+        "W 9th St",
+        "West Ave",
+        "Windsor Rd",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.75734, -97.74826, 30.28307, 30.27394)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1921__1k__x__75_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__75.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__75.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1921__1k__x__75.xml\"}",
+    "id": "utaustin_121177",
+    "dct_identifier_sm": [
+        "121177"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

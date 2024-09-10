@@ -1,0 +1,44 @@
+{
+    "dct_title_s": "Relaciones Geograficas",
+    "dct_description_sm": [
+        "This is a dataset of points marking politically-significant towns (e.g. towns that were extensively described) in the Relaciones Geogr\u00e1ficas manuscript accounts at the Benson Latin American Collection. Towns referenced within the texts that did not contain a standalone description were not included in this dataset."
+    ],
+    "dct_language_sm": [
+        "Spanish; Castilian"
+    ],
+    "dct_creator_sm": [
+        "Albert A. Palacios"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Benson Latin American Collection",
+        "Relaciones Geograficas collection"
+    ],
+    "dct_subject_sm": [
+        "History",
+        "Anthropology",
+        "Ethnohistory",
+        "Geography"
+    ],
+    "dct_temporal_sm": [
+        "Early Modern",
+        "Spanish Colonial"
+    ],
+    "dct_issued_s": "2017-12-17",
+    "dct_spatial_sm": [
+        "Mexico",
+        "Guatemala"
+    ],
+    "locn_geometry": "ENVELOPE(-104.358237, -91.229887, 21.436978, 14.539595)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "gbl_resourceClass_sm": "Datasets",
+    "gbl_wxsIdentifier_s": "utblac__jgi__rg__point__v1__relaciones_geograficas_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__jgi__rg__point__v1__relaciones_geograficas.zip\", \"https://github.com/protomaps/PMTiles\": \"https://curio.lib.utexas.edu/geodata/shapefiles/utblac__jgi__rg__point__v1__relaciones_geograficas.pmtiles\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utblac__jgi__rg__point__v1__relaciones_geograficas.xml\"}",
+    "id": "utaustin_18887",
+    "dct_identifier_sm": [
+        "18887"
+    ],
+    "gbl_mdModified_dt": "2021-09-17T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,91 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1921; Sheet 73]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1921"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Mathews School",
+        "Confederate Men's Home",
+        "Clarksville",
+        "Hezikiah Haskell House",
+        "Austin",
+        "Johnson Branch",
+        "78703",
+        "Augusta Ave",
+        "Brownlee Cir",
+        "Campbell St",
+        "Cesar Chavez St W",
+        "Charlotte St",
+        "Confederate Ave",
+        "Eason St",
+        "Elm St",
+        "Enfield Rd",
+        "Francis Ave",
+        "Harthan St",
+        "Highgrove Ter",
+        "Highland Ave",
+        "Jennie Ave",
+        "Maufrais St",
+        "N Mo-Pac Svc Rd",
+        "Oakland Ave",
+        "Palma Plz",
+        "Patterson Ave",
+        "Pease Rd",
+        "Powell St",
+        "Pressler St",
+        "Robertson St",
+        "S Mo-Pac Expy",
+        "Theresa Ave",
+        "Toyath St",
+        "Tremont St",
+        "W 11 1/2 St",
+        "W 11th St",
+        "W 11th 1/2 St",
+        "W 10th St",
+        "W 12th St",
+        "W 13th St",
+        "W 14th St",
+        "W 6th St",
+        "W 6th 1/2 St",
+        "W 5th St",
+        "W 8th St",
+        "W 9th 1/2 St",
+        "W 9th St",
+        "W Cesar Chavez St",
+        "W Lynn St",
+        "Waterston Ave",
+        "Winflo Dr",
+        "Winsted Ln",
+        "Woodlawn Blvd",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.7684, -97.75731, 30.28304, 30.27386)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1921__1k__x__73_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__73.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__73.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1921__1k__x__73.xml\"}",
+    "id": "utaustin_121175",
+    "dct_identifier_sm": [
+        "121175"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,84 @@
+{
+    "dct_title_s": "Sanborn Fire Insurance Maps [Austin, Texas, 1921; Sheet 94]",
+    "dct_creator_sm": "Sanborn Map Company",
+    "dct_publisher_sm": "Sanborn Map Company",
+    "dct_description_sm": [
+        "Scale: 1:1000;"
+    ],
+    "dct_language_sm": [
+        "English"
+    ],
+    "schema_provider_s": "Texas",
+    "dct_isPartOf_sm": [
+        "Perry-Castaneda Library Map Collection",
+        "Sanborn Fire Insurance collection"
+    ],
+    "dct_subject_sm": [
+        "Scanned maps"
+    ],
+    "dct_temporal_sm": [
+        "1921"
+    ],
+    "dct_issued_s": "",
+    "dct_spatial_sm": [
+        "Williams-Weigl House",
+        "Hodnette House",
+        "Hyde Park",
+        "Philquist-Wood House",
+        "The Shipe House",
+        "Elisabet Ney",
+        "Kopperl House",
+        "William T. and Valerie Mansbendel Williams House",
+        "Elisabet Ney Home",
+        "Austin",
+        "Waller Creek",
+        "78705",
+        "78751",
+        "Ave B",
+        "Ave C",
+        "Ave D",
+        "Ave F",
+        "Ave G",
+        "Ave H",
+        "Barrow Ave",
+        "Caswell Ave",
+        "Duval St",
+        "E 40th St",
+        "E 39th St",
+        "E 38th St",
+        "E 41st St",
+        "E 42nd St",
+        "E 43rd St",
+        "E 44th St",
+        "E 45th St",
+        "E 46th St",
+        "Eilers Ave",
+        "Evans Ave",
+        "Grooms St",
+        "Keasbey St",
+        "Park Blvd",
+        "Peck Ave",
+        "Red River St",
+        "Speedway",
+        "Towne Park Trl",
+        "W 40th St",
+        "W 41st St",
+        "W 42nd St",
+        "W 43rd St",
+        "W 44th St",
+        "W 45th St",
+        "Texas"
+    ],
+    "locn_geometry": "ENVELOPE(-97.73248, -97.72212, 30.30914, 30.29976)",
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "GeoJPEG",
+    "gbl_resourceClass_sm": "Maps",
+    "gbl_wxsIdentifier_s": "utlmaps__sfi__austin_tx_1921__1k__x__94_layer",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__94.zip\", \"https://github.com/cogeotiff/cog-spec\": \"https://curio.lib.utexas.edu/geodata/raster/utlmaps__sfi__austin_tx_1921__1k__x__94.tif\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://curio.lib.utexas.edu/geodata/iso/utlmaps__sfi__austin_tx_1921__1k__x__94.xml\"}",
+    "id": "utaustin_121193",
+    "dct_identifier_sm": [
+        "121193"
+    ],
+    "gbl_mdModified_dt": "2019-03-15T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark"
+}
